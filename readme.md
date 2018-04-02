@@ -25,13 +25,27 @@ About this section. Optional. Keep this short and focus on the list.
 - [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts screenshots from a video using ffmpeg.
 - [ffmpeg-extract-audio](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file.
 
+### Misc
 
+- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten.
+
+## Tutorials
+
+### Using FFmpeg
+
+- [TODO]()
+
+### Developing with FFmpeg
+
+- [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg/)
+- [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+- [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl/) and [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv/)
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams.
 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Please read the [contribution guidelines](contributing.md) first.
 
 
 ## License
