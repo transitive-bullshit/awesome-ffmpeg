@@ -20,11 +20,12 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org).
 - [ffmpeg-probe](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files.
-- [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
+- [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
+- [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
 - [ffmpeg-extract-frame](https://github.com/transitive-bullshit/ffmpeg-extract-frame) - Extracts a single frame from a video.
 - [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts screenshots from a video using ffmpeg.
 - [ffmpeg-extract-audio](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file.
-- [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
+- [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
 
 ### Misc
 
