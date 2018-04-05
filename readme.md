@@ -5,10 +5,10 @@
 
 ## Contents
 
-- [Docs](#Docs)
-- [JavaScript](#JavaScript)
-- [Mobile](#Mobile)
-- [Tutorials](#Tutorials)
+- [Docs](#docs)
+- [JavaScript](#javascript)
+- [Mobile](#mobile)
+- [Tutorials](#tutorials)
 
 
 ## Docs
