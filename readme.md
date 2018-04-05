@@ -13,7 +13,6 @@
 
 ## Official
 
-About this section. Optional. Keep this short and focus on the list.
 FFmpeg's official docs are notoriously difficult for beginners to understand largely due to the scope and complexity of ffmpeg's different capabilities.
 
 - [FFmpeg.org](http://ffmpeg.org/)
