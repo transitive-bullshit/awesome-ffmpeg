@@ -18,6 +18,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [FFmpeg.org](http://ffmpeg.org/) - Where it all starts.
 - [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for ffmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with ffmpeg.
 - [Man page](https://man.cx/ffmpeg) - Official ffmpeg man page.
+- [Wiki & Bug Tracker](https://trac.ffmpeg.org/) - Lots of great info on here.
 - [CLI flags](https://github.com/transitive-bullshit/ffmpeg-cli-flags) - A comprehensive list of all ffmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
 
 
