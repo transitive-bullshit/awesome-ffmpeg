@@ -5,18 +5,19 @@
 
 ## Contents
 
-- [Official](#Official)
-- [JavaScript](#javascript)
-- [Mobile](#mobile)
-- [Tutorials](#tutorials)
+- [Docs](#Docs)
+- [JavaScript](#JavaScript)
+- [Mobile](#Mobile)
+- [Tutorials](#Tutorials)
 
 
-## Official
+## Docs
 
-FFmpeg's official docs are notoriously difficult for beginners to understand largely due to the scope and complexity of ffmpeg's different capabilities.
+FFmpeg's official docs are notoriously difficult for beginners to understand due to the scope and complexity of ffmpeg's capabilities. With that being said, they're still very useful as a reference.
 
 - [FFmpeg.org](http://ffmpeg.org/)
 - [FFmpeg filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for ffmpeg's powerful filter chains (things like scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with ffmpeg.
+- [FFmpeg CLI flags](https://github.com/transitive-bullshit/ffmpeg-cli-flags) - A comprehensive list of all ffmpeg commandline flags. It's really useful for searching random flags that you come across in the wild.
 
 
 ## JavaScript
@@ -44,7 +45,6 @@ FFmpeg's official docs are notoriously difficult for beginners to understand lar
 - [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg/)
 - [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl/) and [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv/)
-- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams.
 
 
 ## Contribute
