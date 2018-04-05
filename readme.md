@@ -2,6 +2,10 @@
 
 > A curated list of awesome [ffmpeg](http://ffmpeg.org) resources with a focus on JavaScript.
 
+<p align="center">
+  <img width="400" src="https://cdn.rawgit.com/transitive-bullshit/awesome-ffmpeg/master/ffmpeg-logo.svg">
+</p>
+
 
 ## Contents
 
