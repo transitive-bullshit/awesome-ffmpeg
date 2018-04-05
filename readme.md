@@ -16,7 +16,7 @@
 FFmpeg's official docs are notoriously difficult for beginners to understand largely due to the scope and complexity of ffmpeg's different capabilities.
 
 - [FFmpeg.org](http://ffmpeg.org/)
-- [FFmpeg filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs desribing ffmpeg's powerful built-in filter chains
+- [FFmpeg filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for ffmpeg's powerful filter chains (things like scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with ffmpeg.
 
 
 ## JavaScript
