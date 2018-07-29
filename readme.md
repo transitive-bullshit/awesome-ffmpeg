@@ -1,4 +1,4 @@
-# Awesome FFmpeg [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome FFmpeg [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome [ffmpeg](http://ffmpeg.org) resources with a focus on JavaScript.
 
@@ -19,10 +19,10 @@
 
 FFmpeg's official docs are notoriously difficult for beginners to understand due to the scope and complexity of ffmpeg's capabilities. With that being said, they're still very useful as a reference.
 
-- [FFmpeg.org](http://ffmpeg.org/) - Where it all starts.
+- [FFmpeg.org](http://ffmpeg.org) - Where it all starts.
 - [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for ffmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with ffmpeg.
 - [Man page](https://man.cx/ffmpeg) - Official ffmpeg man page.
-- [Wiki & Bug Tracker](https://trac.ffmpeg.org/) - Lots of great info on here.
+- [Wiki & Bug Tracker](https://trac.ffmpeg.org) - Lots of great info on here.
 - [CLI flags](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all ffmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
 
 
@@ -49,9 +49,9 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Tutorials
 
-- [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg/)
+- [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
 - [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
-- [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl/) and [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv/)
+- [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) and [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv)
 
 
 ## Contribute
