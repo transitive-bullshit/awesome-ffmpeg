@@ -11,6 +11,7 @@
 
 - [Docs](#docs)
 - [JavaScript](#javascript)
+- [Native](#native)
 - [Mobile](#mobile)
 - [Tutorials](#tutorials)
 
@@ -39,6 +40,10 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg to JavaScript via Emscripten. Allows for limited ffmpeg use on the client-side.
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - Provides static ffmpeg binaries for Mac OSX, Linux, and Windows. Extremely useful for CI testing.
+
+## Native
+
+- [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 
 ## Mobile
