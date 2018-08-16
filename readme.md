@@ -59,6 +59,13 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
 
+## Community
+
+- [Stack Overflow](https://superuser.com/questions/tagged/ffmpeg)
+- [Mailing Lists](https://www.ffmpeg.org/contact.html#MailingLists)
+- [IRC](https://www.ffmpeg.org/contact.html#IRCChannels)
+
+
 ## Contribute
 
 Contributions welcome! Please read the [contributing guideline](contributing.md) first.
