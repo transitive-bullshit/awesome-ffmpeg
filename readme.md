@@ -44,6 +44,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
+- [FFCreatorLite](https://github.com/drawcall/FFCreatorLite) - FFCreatorLite is a lightweight and flexible short video processing library based on Node.js. 
 
 
 ## Native
