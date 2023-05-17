@@ -50,7 +50,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 - [go-ffmpeg](https://github.com/Paxx-RnD/go-ffmpeg) -  Go sdk for ffmpeg and ffprobe.
 
-## Docker & Github Actions
+## Docker & Github Actions
 
 - [nvenc-docker](https://github.com/HiWay-Media/nvenc-docker) - Docker with FFMPEG supports NVENC encoding
 
