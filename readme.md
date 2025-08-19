@@ -44,7 +44,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
-
+- [json-to-ffmpeg](https://github.com/pilotpirxie/json-to-ffmpeg) - Translate typed JSON into FFmpeg command. 
 
 ## Native
 
