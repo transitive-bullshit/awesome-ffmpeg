@@ -13,6 +13,7 @@
 - [JavaScript](#javascript)
 - [Native](#native)
 - [Mobile](#mobile)
+- [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Community](#community)
 
@@ -55,6 +56,11 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 - [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) - FFmpeg examples for Android and iOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg.
+
+
+## Tools
+
+- [jellyfin-encoder](https://github.com/GeiserX/jellyfin-encoder) - Automatic 720p HEVC/AV1 transcoding service for Jellyfin with NVIDIA NVENC and Intel QSV hardware acceleration.
 
 
 ## Tutorials
