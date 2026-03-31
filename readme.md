@@ -49,6 +49,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+- [Expi](https://getexpi.app) - Native desktop FFmpeg GUI for macOS and Windows. Batch convert video and audio without touching the command line. One-time purchase, no subscription.
 
 
 ## Mobile
