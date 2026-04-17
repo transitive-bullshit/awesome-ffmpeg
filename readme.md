@@ -13,6 +13,7 @@
 - [JavaScript](#javascript)
 - [Native](#native)
 - [Mobile](#mobile)
+- [Cloud](#cloud)
 - [Tutorials](#tutorials)
 - [Community](#community)
 
@@ -57,12 +58,17 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg.
 
 
+## Cloud
+
+- [FFHub.io](https://ffhub.io) - Run FFmpeg in the cloud via REST API. Submit commands with a URL input, get processed files back. No local FFmpeg installation needed.
+
 ## Tutorials
 
 - [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
 - [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 - [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook)
+- [FFmpeg Cookbook](https://github.com/ffhub-io/ffmpeg-cookbook) - Practical FFmpeg recipes for everyday tasks: transcoding, compression, subtitles, speed change, watermark, and more. Available in English, Chinese, and Japanese.
 - [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet)
 
 
