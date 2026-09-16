@@ -41,6 +41,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [ffmpeg-extract-audio](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file.
 - [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
+- [videocompress](https://github.com/the-beating-light-of-the-nail/videocompress) - In-browser media toolbox built on ffmpeg.wasm: compress, cut and crop video, convert to MP3, plus image and PDF compression, all client-side so files never leave the device.
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
