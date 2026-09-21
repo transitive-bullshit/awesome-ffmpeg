@@ -47,6 +47,15 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
 
 
+## Go Lang
+
+- [go-ffmpeg](https://github.com/Paxx-RnD/go-ffmpeg) -  Go sdk for ffmpeg and ffprobe.
+
+## Docker & Github Actions
+
+- [nvenc-docker](https://github.com/HiWay-Media/nvenc-docker) - Docker with FFMPEG supports NVENC encoding
+
+
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
