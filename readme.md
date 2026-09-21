@@ -50,6 +50,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+- [n01d-media](https://github.com/bad-antics/n01d-media) - Python-based media suite with FFmpeg encoder for video/audio conversion, plus VLC player and image editor.
 
 
 ## Mobile
