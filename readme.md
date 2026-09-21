@@ -12,6 +12,7 @@
 - [Docs](#docs)
 - [JavaScript](#javascript)
 - [Native](#native)
+- [CLI Tools](#cli-tools)
 - [Mobile](#mobile)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -50,6 +51,11 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+
+
+## CLI Tools
+
+- [loudcheck](https://github.com/chaoz23/loudcheck) - Loudness compliance verdicts against formal broadcast standards (EBU R 128, ATSC A/85) built on FFmpeg loudnorm analysis. Pass/fail with exact deltas and the FFmpeg remediation command; CLI + MCP server for AI agents.
 
 
 ## Mobile
