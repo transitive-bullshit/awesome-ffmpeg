@@ -29,6 +29,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 
 ## JavaScript
+- [remove-audio.com](https://remove-audio.com) — Free browser-based tool to strip audio from video files using FFmpeg.wasm. Runs entirely client-side, no uploads, batch up to 20 files.
 
 - [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
 - [ffmpeg-probe](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files.
