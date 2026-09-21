@@ -50,6 +50,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+- [quietshrink](https://github.com/achiya-automation/quietshrink) - Compress macOS screen recordings with Apple Silicon's hardware HEVC encoder for 70-90% smaller, visually lossless files.
 
 
 ## Mobile
