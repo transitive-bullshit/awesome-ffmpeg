@@ -50,7 +50,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
-
+- [audio-transcode-watcher](https://github.com/GeiserX/audio-transcode-watcher) - Automated multi-format audio transcoding service with real-time file watching and lyrics fetching.
 
 ## Mobile
 
