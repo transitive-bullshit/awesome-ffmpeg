@@ -45,6 +45,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+- [m3u8-doctor](https://github.com/romainGouraud/m3u8-doctor) - Explains an HLS (.m3u8) stream in plain words and prints the ffmpeg command that keeps the sound.
 
 
 ## Native
