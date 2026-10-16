@@ -66,6 +66,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook)
 - [FFmpeg Cookbook](https://ghassan-gaidi.github.io/ffmpeg-cookbook/?ref=specD2) - Task-first cookbook of tested ffmpeg one-liners (compress, trim, GIF, audio extraction).
 - [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet)
+- [Word-by-word captions with Python and ffmpeg](https://dev.to/prime619/word-by-word-captions-with-python-and-ffmpeg-no-capcut-watermark-10a) - Builds karaoke-style captions from Whisper word timestamps as one ASS event per word and burns them in with the subtitles filter (libass).
 
 
 ## Community
@@ -87,3 +88,4 @@ Contributions welcome! Please read the [contributing guideline](contributing.md)
 To the extent possible under law, [Travis Fischer](https://github.com/transitive-bullshit) has waived all copyright and related or neighboring rights to this work.
 
 Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
+
