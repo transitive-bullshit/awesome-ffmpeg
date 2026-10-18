@@ -56,6 +56,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 - [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) - FFmpeg examples for Android and iOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg.
+- [StatusDrop](https://github.com/Shamanthnp1/WAstatus) - Android app that compresses and splits videos on the phone with FFmpegKit and x264 into WhatsApp Status-ready clips.
 
 
 ## Tutorials
