@@ -66,6 +66,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook)
 - [FFmpeg Cookbook](https://ghassan-gaidi.github.io/ffmpeg-cookbook/?ref=specD2) - Task-first cookbook of tested ffmpeg one-liners (compress, trim, GIF, audio extraction).
 - [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet)
+- [Video Background Removal Methods](https://github.com/jerryjiao/video-background-removal-methods) - Four-method comparison for removing video backgrounds, free-tier limits of online converters (CSV), and tested ffmpeg remux/probe recipes for the local fallback.
 
 
 ## Community
