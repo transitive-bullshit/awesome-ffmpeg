@@ -50,6 +50,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+- [tennis-evolution](https://github.com/bobobo2026/tennis-evolution) - Cuts rallies from long sports recordings with keyframe-aligned stream copies and builds a verified highlight reel that keeps iPhone HLG/BT.2020 tags.
 
 
 ## Mobile
