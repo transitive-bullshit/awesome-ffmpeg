@@ -45,6 +45,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+- [html-to-video](https://github.com/wx4766/html-to-video) - Renders an HTML/Canvas `frame(t)` page to MP4 frame by frame through headless Chromium and FFmpeg. Deterministic output, and one command renders every platform aspect ratio from the same file.
 
 
 ## Native
