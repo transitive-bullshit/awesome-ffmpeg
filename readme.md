@@ -66,6 +66,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook)
 - [FFmpeg Cookbook](https://ghassan-gaidi.github.io/ffmpeg-cookbook/?ref=specD2) - Task-first cookbook of tested ffmpeg one-liners (compress, trim, GIF, audio extraction).
 - [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet)
+- [Keep iPhone HDR when cutting and joining videos](https://tennis-evolution.pages.dev/guides/ffmpeg-iphone-hdr-hlg/) - Why iPhone HLG footage turns grey after re-encoding, and the flags that keep it HDR.
 
 
 ## Community
