@@ -45,7 +45,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
-
+- [halfsize](https://github.com/YKLovePython/halfsize) - Compresses videos to a target file size with two-pass encoding and reports the quality loss using VMAF or SSIM.
 
 ## Native
 
