@@ -45,6 +45,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+- [kinetograph](https://github.com/0xS4N4TG/kinetograph) - Programmatic video engine that renders Remotion projects and HTML pages to video on the GPU with a Rust compositor, with no browser.
 
 
 ## Native
