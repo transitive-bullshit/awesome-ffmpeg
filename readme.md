@@ -45,6 +45,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+- [AgentShot](https://github.com/hormuz-labs/agentshot) - Desktop video editor you direct in plain language: an agent measures the footage in one FFmpeg filter-graph pass, edits a timeline, and re-encodes only the frames around each cut.
 
 
 ## Native
