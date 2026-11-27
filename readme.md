@@ -11,6 +11,7 @@
 
 - [Docs](#docs)
 - [JavaScript](#javascript)
+- [Python](#python)
 - [Native](#native)
 - [Mobile](#mobile)
 - [Tutorials](#tutorials)
@@ -45,6 +46,11 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+
+
+## Python
+
+- [vedit](https://github.com/metiutek/editorvideo-ai) - Timeline video editor that an AI agent can drive over MCP, rendering every edit on a deterministic FFmpeg engine.
 
 
 ## Native
